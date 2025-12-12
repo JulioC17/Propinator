@@ -81,7 +81,7 @@ const mainView = () => {
                 })
             }
             else{
-                alert("hola")
+                alert("Rellena Todas las Casillas")
                 return
             }
     }
