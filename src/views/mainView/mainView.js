@@ -40,7 +40,7 @@ const mainView = () => {
      divImg.setAttribute("id", "divImg")
     
     const img = document.createElement("img")
-    img.setAttribute("src", "../../image.png")
+    img.setAttribute("src", "/public/image.png")
     
     const addBtn = document.createElement("button")
     addBtn.setAttribute("id", "addBtn")
