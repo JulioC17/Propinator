@@ -1,0 +1,40 @@
+/*
+Fondo suave azul/verde
+#AFD8DC
+Rojo quemado oscuro
+#BA4435
+Verde esmeralda
+#45996A
+Naranja rojizo brillante
+#F55E3E
+Verde petróleo oscuro
+#1C514F
+Beige cálido / piel
+#EDB987
+
+*/
+
+#workerDiv{
+    background-color: #F55E3E;
+    border-radius: 10px;
+    border: 2px solid #1C514F;
+    margin: 3%;
+    display: flex;
+    justify-content:space-around;
+    padding: 2%;
+
+}
+
+#inputWorker{
+    width: 20%;
+}
+
+#inputHours{
+    width: 10%;
+}
+
+label{
+    font-size: 1em;
+    color: whitesmoke
+    
+}
